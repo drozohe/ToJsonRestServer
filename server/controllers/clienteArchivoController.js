@@ -17,7 +17,7 @@ app.get('/datos_cliente', (req, res) => {
     let maxCantRecords = Number(req.query.cant) || 10
 
     console.log(from, maxCantRecords);
-    console.log('appWatcher: ', app.watcher);
+    
     let filterOptions = {
         activo: true
     }
