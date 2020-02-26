@@ -11,6 +11,8 @@ app.use(require(path.join(rootPath,'controllers/navigationController')))
 app.use(require(path.join(rootPath,'controllers/userController')))
 app.use(require(path.join(rootPath,'controllers/clienteArchivoController')))
 //app.use(require(path.join(rootPath,'controllers/uploadFiles')))
+app.use(require(path.join(rootPath,'controllers/parsetojson')))
+
 
 
 module.exports = app

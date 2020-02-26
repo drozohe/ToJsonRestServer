@@ -56,9 +56,11 @@ process.on('unhandledRejection', function (err) {
 });
 
 
-app.watcher = new mWatcher(); 
+app.watcher = new mWatcher(); //si no se envía nada en el parámetro inicia
+                              //escaenando el directorio /files, de lo contrario
+                              //escanea el directorio indicado en el parámetro  
 
-(function waitfor(stop){
+(function waitfor(stop){ //Este metodo espera a que finalice el escaneo...
     console.log('Server starting...please wait');
     if (stop) {            
         
@@ -70,26 +72,17 @@ app.watcher = new mWatcher();
             if (err) {
                 throw err
             }
-        
-        
             console.info("Mongo ONLINE...");
             
-            
-        
             app.listen(process.env.PORT, (err) => {
                 //console.info(`Escuchando el puerto ${ process.env.PORT  } en ${__dirname} partials path= ${partialsPath} public path = ${publicPath}`)
                 if (err) {
                     throw err;
                 }
             
-                
                 writelog(`Server ONLINE on port: ${process.env.PORT}`)
-                
                 console.info(`Server ONLINE on port: ${process.env.PORT}`)
             })
-            
-            // console.info(scanner.infoMessages)
-        
         });
         
         return;
