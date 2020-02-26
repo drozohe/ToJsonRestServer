@@ -1,0 +1,139 @@
+const express = require('express')
+const chokidar = require('chokidar')
+const path = require('path')
+const fs = require('fs');
+
+
+class folderWatcher {
+    constructor() {
+        this.clientFolderName = ""
+        this.rootPath = path.parse(__dirname).dir
+        this.pathToScan = ""
+        this.watcher;
+        this.watchedIsStarted = false
+        this.startingError = false;
+        this.startingErrorMsg = ""
+        this.directoryList = []
+        this.folderCount = 0;
+    }
+
+
+}
+
+folderWatcher.prototype.startToWatch = function (clientFolderFiles) {
+    var self = this
+    self.directoryList = []
+    self.clientFolderName = clientFolderFiles
+    self.pathToScan = path.join(self.rootPath, "../files", self.clientFolderName)
+    self.watcher = chokidar.watch(self.pathToScan, {
+        ignored: /(^|[\/\\])\../, // ignore dotfiles
+        persistent: true,
+        ignoreInitial: false
+    });
+
+    if (!fs.existsSync(self.pathToScan)) {
+        self.watchedIsStarted = false
+        self.startingError = true
+        self.startingErrorMsg = `Error al intentar iniciar el observador de directorios en:  ${self.pathToScan}. El directorio ${self.pathToScan} no existe. Verifique y vuelva a intentarlo`
+        return {
+            msg: self.startingErrorMsg,
+            error: self.startingError = true
+        }
+
+    } else {
+        self.watchedIsStarted = true
+        self.startingError = false
+        self.startingErrorMsg = ""
+
+
+        self.watcher
+            .on('add', mpath => console.log(`File ${mpath} has been added`))
+            .on('change', (mpath, stats) => {
+                if (stats) {
+                    console.log(`File ${mpath} changed size to ${stats.size}`);
+                }
+                console.log(`File ${mpath} has been changed`)
+            })
+            .on('unlink', mpath => console.log(`File ${mpath} has been removed`))
+            .on('addDir', mpath => {//al agregar un directorio...
+                self.folderCount = self.directoryList.push(mpath)
+                console.log(`Directory ${mpath} has been added. ${self.folderCount} directories...`)
+            })
+            .on('unlinkDir', mpath => { //al borrar un directorio...
+
+                console.log(`Directory ${mpath} has been removed`)
+            })
+            .on('error', error => {
+                console.log(`Watcher error: ${error}`)
+                self.startingError = true
+                self.startingErrorMsg = error
+            })
+            .on('ready', () => {
+
+            })
+
+        return {
+            msg: `Initial scan complete. Ready for changes on ${self.pathToScan}`,
+            err: self.startingError = false
+        }
+    }
+
+}
+
+folderWatcher.prototype.stopToWatch = function () {
+    var self = this
+    self.watcher.close()
+        .then(() => {
+            console.log('closed')
+            return {
+                msg: 'closed',
+                error: false
+            }
+        })
+        .catch((err) => {
+            return {
+                msg: `Error al detener.  ${err}`,
+                error: true
+            }
+        })
+
+    // return {
+    //     msg: 'stop watching',
+    //     error: false
+    // }
+}
+
+folderWatcher.prototype.getListOfFiles = function () {
+    var self = this
+    console.log(self.directoryList);
+    return self.directoryList;
+
+}
+ 
+
+module.exports = folderWatcher
+//  const app = express();
+
+// //➖➖➖➖➖➖➖➖➖➖➖➖➖➖ Watcher ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+// const rootPath = path.parse(__dirname).dir
+// const pathToScan = path.join(rootPath, "../files")
+// const watcher = chokidar.watch(pathToScan, {
+//     ignored: /(^|[\/\\])\../, // ignore dotfiles
+//     persistent: true
+//   });
+
+
+// watcher
+//   .on('add', mpath => console.log(`File ${mpath} has been added`))
+//   .on('change', mpath => console.log(`File ${mpath} has been changed`))
+//   .on('unlink', mpath => console.log(`File ${mpath} has been removed`))
+//   .on('addDir', mpath => console.log(`Directory ${mpath} has been added`))
+//   .on('unlinkDir', mpath => console.log(`Directory ${mpath} has been removed`))
+//   .on('error', error => console.log(`Watcher error: ${error}`))
+//   .on('ready', () => console.log('Initial scan complete. Ready for changes'))
+
+//   const listOfFiles = (param)=>{
+//       return `param:  ${ param }`;
+//   }
+
+//   exports.listOfFiles = listOfFiles

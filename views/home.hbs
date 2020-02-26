@@ -1,0 +1,41 @@
+
+{{>head}}
+{{>navbar}}
+
+
+    <h1 class="center">{{ CardTitle }}</h1>
+
+
+    <div class="container">
+        <div class="row valign-wrapper">
+            <div class="col s12 offset-s3 valign">
+                <div class="card">
+                    <div class="card-image">
+                        <img class="materialboxed" width="650" src="img/sample-1.jpg">
+                        <span class="card-title">{{ nombre }}</span>
+                        <a class="btn-floating halfway-fab waves-effect waves-light red"
+                            onclick="M.toast({html: 'Love u 💕'})"><i class="material-icons">add</i></a>
+                    </div>
+                    <div class="card-content">
+                        <p>I am a very simple card. I am good at containing small bits of information. I am convenient
+                            because I require little markup to use effectively.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- <div class="center">
+        <a onclick="M.toast({html: 'I am a toast'})" class="btn">Toast!</a>
+    </div> -->
+    <!--JavaScript at end of body for optimized loading-->
+    <script src="/js/materialize.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            M.AutoInit();
+        });
+    </script>
+
+</body>
+
+</html>

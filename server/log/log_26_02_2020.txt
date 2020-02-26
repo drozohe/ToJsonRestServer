@@ -1,0 +1,10 @@
+26_02_2020|14:54:10.388|event: addDir|path: D:\proyectosEspeciales\Web\Node_Js\ToJsonRestServer-master\files|stats size: 0
+26_02_2020|14:54:10.944|Server ONLINE on port: 9021
+26_02_2020|15:09:29.055|event: addDir|path: d:\proyectosEspeciales\Web\Node_Js\ToJsonRestServer-master\files|stats size: 0
+26_02_2020|15:09:29.595|Server ONLINE on port: 9021
+26_02_2020|15:10:12.254|event: addDir|path: d:\proyectosEspeciales\Web\Node_Js\ToJsonRestServer-master\files|stats size: 0
+26_02_2020|15:13:46.905|event: addDir|path: D:\proyectosEspeciales\Web\Node_Js\ToJsonRestServer-master\files|stats size: 0
+26_02_2020|15:15:34.983|event: addDir|path: D:\proyectosEspeciales\Web\Node_Js\ToJsonRestServer-master\files|stats size: 0
+26_02_2020|15:15:35.541|Server ONLINE on port: 9021
+26_02_2020|15:18:24.882|event: addDir|path: d:\proyectosEspeciales\Web\Node_Js\ToJsonRestServer-master\files|stats size: 0
+26_02_2020|15:18:25.450|Server ONLINE on port: 9021

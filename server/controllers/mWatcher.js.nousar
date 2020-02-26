@@ -1,0 +1,230 @@
+//const express = require('express')
+const chokidar = require('chokidar')
+const formatDate = require('date-format');
+const path = require('path')
+const fs = require('graceful-fs');
+
+//const app = express()
+
+// Something to use when events are received.
+
+
+
+class mWatcher {
+    constructor(clientFolderFiles) {
+        const fecha = formatDate.asString('dd_MM_yyyy', new Date());
+
+        this.rootPath = path.parse(__dirname).dir;
+        this.watcher;
+        this.watchedIsStarted = false;
+        this.startingError = false;
+        this.startingErrorMsg = "";
+        this.directoryList = [];
+        this.folderCount = 0;
+        this.watchedPaths = {};
+        this.logFile = fs.createWriteStream(path.join(this.rootPath, `/log/log_${fecha}.txt`), { flags: 'a' });
+        this.clientFolderName = clientFolderFiles
+        //this.pathToScan = path.join(this.rootPath, "../files", this.clientFolderName)
+        this.pathToScan = clientFolderFiles
+        this.infoMessages = { message: `Inicializado para escanear en: ${this.pathToScan}` }
+        this.watcher = chokidar.watch(this.pathToScan, {
+            ignored: /(^|[\/\\])\../, // ignore dotfiles
+            persistent: true,
+            ignoreInitial: false,
+            usePolling: true,
+            interval: 100,
+            binaryInterval: 300,
+            awaitWriteFinish: true
+        });
+
+
+    }
+
+    async writelog(registro) {
+
+        try {
+            const fecha = formatDate.asString('dd_MM_yyyy hh:mm:ss.SSS', new Date());
+            this.logFile.write(`${fecha}: ${registro}\n`);
+
+        } catch (e) {
+            //throw e
+            this.logFile.write(`|error| ${e.message}`)
+        }
+
+    }
+
+    setWatcher = async ()=> {
+        //try {
+
+        if (!fs.existsSync(this.pathToScan)) {
+            this.watchedIsStarted = false
+            this.startingError = true
+            this.startingErrorMsg = `Error al intentar iniciar el observador de directorios. El directorio ${this.pathToScan} no existe. Verifique y vuelva a intentarlo`
+            //this.infoMessages = {message: this.startingErrorMsg}
+
+            throw new Error(this.startingErrorMsg)
+        }
+
+
+        this.writelog(`Inicializado para escanear en: ${this.pathToScan}`)
+        return {
+            message: `Inicializado para escanear en: ${this.pathToScan}`,
+            err: false
+        }
+
+        // } catch (error) {
+        //     throw {
+        //         message: error.message,
+        //         error: true
+        //     }
+        // }
+
+    }
+
+    startToWatch = async()=> {
+        // try {  
+        //console.log(this.pathToScan);
+        let ready = false;
+
+        this.startingError = false
+        this.startingErrorMsg = ""
+
+
+        this.watcher.on('all',(event,path,stats)=>{
+            //console.log(`event: ${ event } path: ${path} stats size: ${stats? stats.size : 'no size' }`);
+            this.writelog(`event: ${ event } path: ${path} stats size: ${stats? stats.size : 'no size' }`);
+            // return {
+            //     ok:'all'
+            // }
+
+        })
+        .on('ready', () => {
+            ready=false
+            //console.log('ready...');
+            // return {
+            //     ok:'on ready'
+            // }
+        })
+        .on('error', (err)=>{
+            throw new Error(`Se produjo un error en el observer. ${ err.name }: ${err.messages}`)
+        })
+
+        this.watcher.
+        if (ready) {
+            return {
+                 ok:'on ready'
+            }
+        }
+        // .on('add', (event,mpath) => {
+        //     this.writelog(`|[add file]|${event} ${mpath}`);
+        //     console.log(`File ${mpath} has been added`)
+        //     //this.infoMessages += {message: `File ${mpath} has been added`}
+
+        // })
+        // .on('change', (mpath, stats) => {
+        //     if (stats) {
+        //         this.writelog(`|[change]|File ${mpath} changed size to ${stats.size}`);
+        //         console.log(`File ${mpath} changed size to ${stats.size}`);
+        //         //this.infoMessages += {message: `File ${mpath} changed size to ${stats.size}`}
+        //     } else {
+        //         this.writelog(`|[change]|File ${mpath}`);
+        //     }
+        //     console.log(`File ${mpath} has been changed`)
+        //     //this.infoMessages += {message: `File ${mpath} changed size to ${stats.size}`}
+
+        // })
+        // .on('unlink', mpath => {
+        //     this.writelog(`|[delete/rename file]|File ${mpath}`);
+        //     console.log(`File ${mpath} has been removed`)
+        //     //this.infoMessages = {message: `File ${mpath} has been removed`}
+        // })
+        // .on('addDir', (event,mpath) => {
+        //     this.writelog(`|[add Dir]|${event} Directory ${mpath}`);
+        //     console.log(`Directory ${mpath} has been added`)
+        //     //this.infoMessages = {message: `Directory ${path} has been added`}
+        // })
+        // .on('unlinkDir', mpath => { //al borrar un directorio...
+
+        //     this.writelog(`|[delete/rename dir]|Directory ${mpath}`);
+        //     console.log(`Directory ${mpath} has been removed`)
+        //     //this.infoMessages += {message: `Directory ${mpath} has been removed`}
+
+        // })
+        // .on('error', error => {
+
+        //     this.startingError = true
+        //     this.startingErrorMsg = error
+
+        //     this.writelog(`|[error]|Watcher error: ${error}`);
+        //     console.log(`Watcher error: ${error}`)
+        //     //this.infoMessages += {message: `Watcher error: ${error}`}
+        //     // throw {
+        //     //     message: this.startingErrorMsg,
+        //     //     err: this.startingError
+        //     // }
+        // })
+        // .on('ready', () => {
+        //     this.watchedIsStarted = true
+        //     //this.watchedPaths = this.watcher.getWatched()
+        //     //console.log(this.watchedPaths);
+        //     console.log('Initial scan complete. Ready for changes')
+        //     this.writelog('|[ini]|Initial scan complete. Ready for changes');
+
+        //     //this.infoMessages += {message: `Initial scan complete. Ready for changes. Watched: ${this.watchedPaths }`}
+
+        // })
+
+        //este return nunca ocurre....
+        //console.log(this.watcher);
+        // return {
+        //     message: this.infoMessages,
+        //     w: this.watcher.getWatched()
+        // }
+        // } catch (error) {
+        //     throw {
+        //         message: error.message,
+        //         error: true
+        //     }
+        // }
+
+    }
+
+
+    async getDirectoryList() {
+        try {
+
+            this.watchedPaths = this.watcher.getWatched()
+            //console.log("ww:",this.watchedPaths);
+
+            return {
+                error: false,
+                w: this.watchedPaths
+            }
+
+        } catch (error) {
+            throw {
+                message: error.message,
+                error: true
+            }
+        }
+    }
+
+    async stopWatch() {
+        try {
+
+            const r = await this.watcher.close();
+            return {
+                message: 'Observer stopped',
+                error: false
+            }
+
+        } catch (error) {
+            throw {
+                message: error.message,
+                error: true
+            }
+        }
+    }
+}
+
+module.exports = mWatcher
