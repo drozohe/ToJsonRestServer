@@ -1,0 +1,315 @@
+25_02_2020|21:52:15.551|Server ONLINE on port: 9021
+25_02_2020|21:52:15.551|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|21:52:15.580|Ready for changes...
+25_02_2020|21:52:50.607|Server ONLINE on port: 9021
+25_02_2020|21:52:50.608|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|21:52:50.741|Ready for changes...
+25_02_2020|21:52:52.108|Server ONLINE on port: 9021
+25_02_2020|21:52:52.109|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|21:52:52.157|Ready for changes...
+25_02_2020|21:53:28.122|Server ONLINE on port: 9021
+25_02_2020|21:53:28.124|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|21:53:28.153|Ready for changes...
+25_02_2020|21:53:42.364|Server ONLINE on port: 9021
+25_02_2020|21:53:42.365|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|21:53:42.402|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|21:53:42.418|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|21:53:42.418|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|21:53:42.421|Ready for changes...
+25_02_2020|21:54:12.166|Server ONLINE on port: 9021
+25_02_2020|21:54:12.167|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|21:54:12.192|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|21:54:12.207|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|21:54:12.207|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|21:54:12.209|Ready for changes...
+25_02_2020|21:54:47.230|Server ONLINE on port: 9021
+25_02_2020|21:54:47.230|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|21:54:47.250|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|21:54:47.265|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|21:54:47.265|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|21:54:47.267|Ready for changes...
+25_02_2020|21:56:19.639|Server ONLINE on port: 9021
+25_02_2020|21:57:07.106|Server ONLINE on port: 9021
+25_02_2020|21:57:07.137|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|21:57:07.288|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|21:57:07.289|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|21:57:07.303|Ready for changes...
+25_02_2020|21:57:39.284|Server ONLINE on port: 9021
+25_02_2020|21:57:39.300|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|21:57:39.325|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|21:57:39.326|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|21:57:39.327|Ready for changes...
+25_02_2020|21:58:06.302|Server ONLINE on port: 9021
+25_02_2020|21:58:06.302|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|21:58:06.319|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|21:58:06.334|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|21:58:06.334|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|21:58:06.335|Ready for changes...
+25_02_2020|21:58:32.955|Server ONLINE on port: 9021
+25_02_2020|21:58:32.956|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|21:58:32.987|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|21:58:32.992|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|21:58:32.994|Ready for changes...
+25_02_2020|21:59:28.184|Server ONLINE on port: 9021
+25_02_2020|21:59:28.193|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|21:59:28.239|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|21:59:28.244|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|21:59:28.246|Ready for changes...
+25_02_2020|21:59:42.259|Server ONLINE on port: 9021
+25_02_2020|21:59:42.260|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|21:59:42.277|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|21:59:42.290|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|21:59:42.291|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|21:59:42.292|Ready for changes...
+25_02_2020|22:00:07.915|Server ONLINE on port: 9021
+25_02_2020|22:00:07.916|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:00:07.943|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:00:07.959|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:00:07.960|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:00:07.962|Ready for changes...
+25_02_2020|22:00:32.018|Server ONLINE on port: 9021
+25_02_2020|22:00:32.019|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:00:32.029|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:00:32.046|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:00:32.049|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:00:32.050|Ready for changes...
+25_02_2020|22:01:39.930|Server ONLINE on port: 9021
+25_02_2020|22:01:39.931|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:01:39.944|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:01:39.968|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:01:39.970|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:01:39.972|Ready for changes...
+25_02_2020|22:04:36.907|Server ONLINE on port: 9021
+25_02_2020|22:04:36.907|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:04:36.935|Ready for changes...
+25_02_2020|22:05:09.320|Server ONLINE on port: 9021
+25_02_2020|22:05:09.323|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:05:09.366|Ready for changes...
+25_02_2020|22:05:30.726|Server ONLINE on port: 9021
+25_02_2020|22:05:30.726|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:05:30.737|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:05:30.755|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:05:30.755|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:05:30.756|Ready for changes...
+25_02_2020|22:05:32.702|Server ONLINE on port: 9021
+25_02_2020|22:05:32.708|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:05:32.725|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:05:32.752|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:05:32.752|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:05:32.753|Ready for changes...
+25_02_2020|22:05:34.262|Server ONLINE on port: 9021
+25_02_2020|22:05:34.263|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:05:34.275|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:05:34.294|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:05:34.295|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:05:34.297|Ready for changes...
+25_02_2020|22:05:35.912|Server ONLINE on port: 9021
+25_02_2020|22:05:35.921|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:05:35.937|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:05:35.960|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:05:35.962|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:05:35.962|Ready for changes...
+25_02_2020|22:05:37.184|Server ONLINE on port: 9021
+25_02_2020|22:05:37.184|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:05:37.196|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:05:37.226|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:05:37.227|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:05:37.228|Ready for changes...
+25_02_2020|22:05:38.366|Server ONLINE on port: 9021
+25_02_2020|22:05:38.369|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:05:38.382|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:05:38.407|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:05:38.408|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:05:38.412|Ready for changes...
+25_02_2020|22:05:39.558|Server ONLINE on port: 9021
+25_02_2020|22:05:39.559|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:05:39.566|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:05:39.580|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:05:39.580|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:05:39.581|Ready for changes...
+25_02_2020|22:07:16.841|Server ONLINE on port: 9021
+25_02_2020|22:07:16.853|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:07:16.888|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:07:16.902|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:07:16.902|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:07:29.043|Server ONLINE on port: 9021
+25_02_2020|22:07:29.044|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:07:29.053|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:07:29.066|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:07:29.069|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:07:51.152|Server ONLINE on port: 9021
+25_02_2020|22:07:51.153|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:07:51.166|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:07:51.176|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:07:51.177|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:08:15.623|Server ONLINE on port: 9021
+25_02_2020|22:08:15.624|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:08:15.637|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:08:15.638|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:08:21.298|Server ONLINE on port: 9021
+25_02_2020|22:08:21.299|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:08:21.308|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:08:21.309|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:08:23.354|Server ONLINE on port: 9021
+25_02_2020|22:08:23.355|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:08:23.367|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:08:23.392|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:08:23.393|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:08:26.528|Server ONLINE on port: 9021
+25_02_2020|22:08:26.529|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:08:26.541|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:08:26.559|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:08:26.559|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:08:29.211|Server ONLINE on port: 9021
+25_02_2020|22:08:29.212|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:08:29.222|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:08:29.231|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:08:29.232|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:08:31.859|Server ONLINE on port: 9021
+25_02_2020|22:08:31.859|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:08:31.892|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:08:31.908|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:08:31.908|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:14:26.288|Server ONLINE on port: 9021
+25_02_2020|22:14:26.289|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:14:26.301|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:14:26.319|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:14:26.320|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:14:30.302|Server ONLINE on port: 9021
+25_02_2020|22:14:30.303|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:14:30.311|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:14:30.328|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:14:30.329|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:19:19.171|Server ONLINE on port: 9021
+25_02_2020|22:19:19.186|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:19:19.216|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:19:19.241|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:19:19.243|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:19:37.778|Server ONLINE on port: 9021
+25_02_2020|22:19:37.778|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:19:37.790|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:19:37.808|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:19:37.808|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:19:53.905|Server ONLINE on port: 9021
+25_02_2020|22:19:53.905|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:19:53.920|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:19:53.921|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:19:58.597|Server ONLINE on port: 9021
+25_02_2020|22:19:58.598|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:19:58.617|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:19:58.629|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:19:58.630|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:20:02.263|Server ONLINE on port: 9021
+25_02_2020|22:20:02.263|Inicializado para escanear en: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files
+25_02_2020|22:20:02.284|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:20:02.299|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:20:02.299|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:20:57.185|Server ONLINE on port: 9021
+25_02_2020|22:21:57.954|Server ONLINE on port: 9021
+25_02_2020|22:21:57.963|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:21:57.978|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:21:57.979|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:23:43.914|Server ONLINE on port: 9021
+25_02_2020|22:23:43.926|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:23:43.942|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:23:43.943|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:24:21.108|Server ONLINE on port: 9021
+25_02_2020|22:24:21.122|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:24:21.147|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:24:21.147|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:25:05.620|Server ONLINE on port: 9021
+25_02_2020|22:25:05.645|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:25:05.677|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:25:05.677|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:25:23.210|Server ONLINE on port: 9021
+25_02_2020|22:25:23.219|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:25:23.235|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:25:23.236|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:26:23.369|Server ONLINE on port: 9021
+25_02_2020|22:26:23.384|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:26:23.398|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:26:23.399|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:26:27.390|Server ONLINE on port: 9021
+25_02_2020|22:26:27.405|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:26:27.420|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:26:27.421|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:26:33.741|Server ONLINE on port: 9021
+25_02_2020|22:26:33.758|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:26:33.775|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:26:33.775|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:27:28.751|Server ONLINE on port: 9021
+25_02_2020|22:27:28.769|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:27:28.794|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:27:28.794|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:28:13.237|Server ONLINE on port: 9021
+25_02_2020|22:28:13.249|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:28:13.270|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:28:13.272|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:28:21.564|Server ONLINE on port: 9021
+25_02_2020|22:28:21.580|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:28:21.593|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:28:21.593|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:29:38.732|Server ONLINE on port: 9021
+25_02_2020|22:29:38.758|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:29:38.800|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:29:38.800|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:29:42.342|Server ONLINE on port: 9021
+25_02_2020|22:29:42.353|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:29:42.377|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:29:42.378|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:29:50.815|Server ONLINE on port: 9021
+25_02_2020|22:29:50.824|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:29:50.847|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:29:50.849|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:32:06.013|Server ONLINE on port: 9021
+25_02_2020|22:32:06.035|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:32:06.085|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:32:06.086|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:32:19.239|Server ONLINE on port: 9021
+25_02_2020|22:32:19.249|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:32:19.268|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:32:19.268|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:32:40.628|Server ONLINE on port: 9021
+25_02_2020|22:32:40.648|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:32:40.660|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:32:40.660|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:32:50.963|Server ONLINE on port: 9021
+25_02_2020|22:32:50.982|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:32:50.996|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:32:50.997|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:33:39.351|Server ONLINE on port: 9021
+25_02_2020|22:33:39.356|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:33:39.369|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:33:39.370|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:33:50.797|Server ONLINE on port: 9021
+25_02_2020|22:33:50.803|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:33:50.824|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:33:50.825|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:35:10.429|Server ONLINE on port: 9021
+25_02_2020|22:35:10.438|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:35:10.449|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:35:10.452|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:38:19.084|Server ONLINE on port: 9021
+25_02_2020|22:38:19.103|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:38:19.154|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:38:19.156|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:39:17.257|Server ONLINE on port: 9021
+25_02_2020|22:39:17.281|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:39:17.291|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:39:17.292|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:40:40.536|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:40:40.572|Server ONLINE on port: 9021
+25_02_2020|22:40:40.589|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:40:40.590|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:42:32.466|Server ONLINE on port: 9021
+25_02_2020|22:42:32.512|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:42:32.526|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:42:32.527|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:43:03.490|Server ONLINE on port: 9021
+25_02_2020|22:43:03.506|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:43:03.518|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:43:03.520|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64
+25_02_2020|22:43:26.824|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files|stats size: 160
+25_02_2020|22:43:26.858|Server ONLINE on port: 9021
+25_02_2020|22:43:26.914|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título|stats size: 64
+25_02_2020|22:43:26.916|event: addDir|path: /Users/drozohe/LocalDocs/NodeJs/ToJsonRestServer-master/files/carpeta sin título 2|stats size: 64

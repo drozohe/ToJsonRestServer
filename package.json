@@ -1,0 +1,32 @@
+{
+  "name": "restserver",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.14.1"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.8",
+    "body-parser": "^1.19.0",
+    "chokidar": "^3.3.1",
+    "date-format": "^3.0.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "file-exists": "^5.0.1",
+    "file-url": "^3.0.0",
+    "graceful-fs": "^4.2.3",
+    "hbs": "^4.1.0",
+    "materialize-css": "^1.0.0-rc.2",
+    "mongoose": "^5.8.11",
+    "mongoose-unique-validator": "^2.0.3",
+    "underscore": "^1.9.2",
+    "wait-for-event": "^1.0.0"
+  }
+}
